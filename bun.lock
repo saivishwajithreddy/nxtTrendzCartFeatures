@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "reactjs-popup": "2.0.4",
+      },
+    },
+  },
+  "packages": {
+    "react": ["react@19.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/react/-/react-19.3.1.tgz", {}, "sha512-QNhWdt7nrgVWWQG58QuGsAR3jv3Hbe4mb4vz7w2csnHavciZJgda1CPNaldF6eVxv90ud3jUXpKlHL69gO38yw=="],
+
+    "react-dom": ["react-dom@19.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/react-dom/-/react-dom-19.3.1.tgz", { "dependencies": { "scheduler": "^0.28.0" }, "peerDependencies": { "react": "^19.3.1" } }, "sha512-Y0bARz53lhEC1NMCASs0/j+faB/zqt3R8hpvg1e8+61ZVJ4UL0UdC4cBbXfZMcIuhrfgeILTLe+ZeBCavQPtKQ=="],
+
+    "reactjs-popup": ["reactjs-popup@2.0.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/reactjs-popup/-/reactjs-popup-2.0.4.tgz", { "peerDependencies": { "react": ">=16", "react-dom": ">=16" } }, "sha512-G5jTXL2JkClKAYAdqedf+K9QvbNsFWvdbrXW1/vWiyanuCU/d7DtQzQux+uKOz2HeNVRsFQHvs7abs0Z7VLAhg=="],
+
+    "scheduler": ["scheduler@0.28.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/scheduler/-/scheduler-0.28.0.tgz", {}, "sha512-juorfCmIkIw8tT+p5BXSm6PJjQF/ycEYmKyzURCIt/RaZIhL+PulbQ9Yu2z1HdOJDdqDTlxA1+xKBmHXJsczAw=="],
+  }
+}
